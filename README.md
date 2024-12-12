@@ -19,6 +19,7 @@ The repository contains the following files:
 | `titanic_neural_network.ipynb` | Jupyter Notebook with code and explanations.          |
 | `Titanic-Dataset.csv`        | Input dataset for training and testing.               |
 | `titanic_tutorial.pdf`       | Detailed tutorial explaining theory and implementation.|
+| `titanic_neural_network.h5`  | Saved Keras model after training.                     |
 | `README.md`                  | This file describing the project.                     |
 
 ---
